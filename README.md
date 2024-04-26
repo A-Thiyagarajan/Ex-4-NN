@@ -1,5 +1,5 @@
-<H3>NAME:KAVINRAJA D</H3>
-<H3>ROLL NO:212222240047</H3>
+<H3>NAME:THIYAGARAJAN A</H3>
+<H3>ROLL NO:212222240110</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
@@ -184,7 +184,11 @@ print(confusion_matrix(testing_b,predicted_values))
 print(classification_report(testing_b,predicted_values))
 ```
 ### OUTPUT:
-![output](./output/o1.png)
-![output](/./output/o2.png)
+![image](https://github.com/A-Thiyagarajan/Ex-4-NN/assets/118707693/42676b07-a30e-4751-8a24-ebfc18fb15d0)
+![image](https://github.com/A-Thiyagarajan/Ex-4-NN/assets/118707693/12ac7597-e80d-4f79-bbc8-780df08f84c9)
+
+
+
+
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
